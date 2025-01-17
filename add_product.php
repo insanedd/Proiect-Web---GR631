@@ -91,7 +91,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
                 <input type="text" name="name" id="name" class="w-full px-3 py-2 border rounded" required>
             </div>
             <div class="mb-4">
-                <label for="name" class="block text-black font-bold">Nume produs</label>
+                <label for="name" class="block text-black font-bold">Pret</label>
                 <input type="text" name="name" id="name" class="w-full px-3 py-2 border rounded" required>
             </div>
             <div class="mb-4">
